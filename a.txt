@@ -1,4 +1,11 @@
 dev writ
+<<<<<<< Updated upstream
 remote dev write
 dev write again
+<<<<<<< Updated upstream
 dev write three
+=======
+=======
+dev wirte again
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
